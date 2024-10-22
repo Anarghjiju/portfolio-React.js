@@ -1,0 +1,48 @@
+/* About.css */
+.about-container {
+    text-align: center;
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .image-container {
+    margin-bottom: 20px;
+  }
+  
+  .profile-image {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    object-fit: cover;
+  }
+  
+  .name-title {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .about-section,
+  .skills-section {
+    margin: 20px 0;
+  }
+  
+  h2 {
+    font-size: 1.8rem;
+    margin-bottom: 10px;
+  }
+  
+  p, ul {
+    font-size: 1.1rem;
+    color: #333;
+  }
+  
+  ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  ul li {
+    margin: 5px 0;
+  }
+  
